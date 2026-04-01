@@ -4,6 +4,9 @@ import CssBaseline from '@mui/material/CssBaseline'
 import theme from '@/styles/theme'
 
 export const metadata = {
+  verification: {
+    google: 'zOqLoD6TshQ5DrQ84M5_nnpud8UI8m_q8vUnVokUH0Q',
+  },
   title: '모든 메세지 - 문자 메시지 문구 모음',
   description: '설날, 추석, 생일 축하, 결혼 축하, 출산 축하, 승진 축하, 입사 축하, 개업 축하, 합격 축하, 수능 응원, 건강 쾌유, 위로, 감사, 부고 조의, 돌잔치, 크리스마스, 새해 인사, 전세 계약, 월세, 면접 안내, 채용 합격, 송년회, 동창회 등 모든 상황에 맞는 문자 메시지 문구를 무료로 제공합니다.',
   keywords: [
